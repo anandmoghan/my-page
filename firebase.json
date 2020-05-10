@@ -8,8 +8,8 @@
     ],
     "rewrites": [
       {
-        "source": "resume",
-        "destination": "resume.pdf"
+        "source": "/resume",
+        "destination": "/resume.pdf"
       },
       {
         "source": "**",
