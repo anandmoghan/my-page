@@ -1,0 +1,16 @@
+title: Anand Mohan
+email: moghan.anand@gmail.com
+description: Machine Learning Scientist, Web Developer and more.
+baseurl: ""
+url: "https://anandmoghan.me"
+
+twitter_username: anandmoghan
+github_username:  anandmoghan
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .firebaserc
+  - firebase.json
